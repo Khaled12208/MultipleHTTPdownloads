@@ -1,0 +1,44 @@
+2024-07-08 20:09:51 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:09:51 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:09:52 [Thread-1] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/golang/go/master/README.md has been downloaded 
+2024-07-08 20:09:52 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:10:36 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/masters/README.md has started
+2024-07-08 20:10:36 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:10:36 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:10:36 [Thread-1] ERROR org.MutliDownload.Downloader - link https://raw.githubusercontent.com/golang/go/masters/README.md has error , response code 404
+2024-07-08 20:10:36 [Thread-1] ERROR org.MutliDownload.DownloadTask - Failed to download https://raw.githubusercontent.com/golang/go/masters/README.md: Failed to fetch content, status code: 404
+2024-07-08 20:12:00 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:12:00 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://FAKE.com has started
+2024-07-08 20:12:01 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:12:01 [Thread-1] ERROR org.MutliDownload.Downloader - link https://FAKE.com has error , response code 403
+2024-07-08 20:12:01 [Thread-1] ERROR org.MutliDownload.DownloadTask - Failed to download https://FAKE.com: Failed to fetch content, status code: 403
+2024-07-08 20:19:18 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:19:18 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:19:35 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:19:35 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://FAKE.com has started
+2024-07-08 20:23:59 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://FAKE.com has started
+2024-07-08 20:23:59 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:24:18 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://FAKE.com has started
+2024-07-08 20:24:18 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:24:30 [Thread-1] ERROR org.MutliDownload.Downloader - link https://FAKE.com has error , response code 403
+2024-07-08 20:24:42 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:24:42 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:24:51 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:24:54 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:24:51 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:25:58 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:25:58 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:29:05 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:29:05 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:29:42 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:29:42 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:29:42 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:29:43 [Thread-1] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/golang/go/master/README.md has been downloaded 
+2024-07-08 20:37:14 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:37:14 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:37:14 [Thread-1] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/golang/go/master/README.md has been downloaded 
+2024-07-08 20:37:14 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:37:24 [Thread-1] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/golang/go/master/README.md has started
+2024-07-08 20:37:24 [Thread-0] INFO  org.MutliDownload.DownloadTask - Download Task for URL https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has started
+2024-07-08 20:37:25 [Thread-0] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/GoogleContainerTools/distroless/main/java/README.md has been downloaded 
+2024-07-08 20:37:25 [Thread-1] INFO  org.MutliDownload.Downloader - link https://raw.githubusercontent.com/golang/go/master/README.md has been downloaded 
